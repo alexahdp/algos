@@ -15,3 +15,7 @@
  * [939. Minimum Area Rectangle.md](./tasks/939.%20Minimum%20Area%20Rectangle.md)  
  * [1492. The kth Factor of n.md](./tasks/1492.%20The%20kth%20Factor%20of%20n.md)  
  * [2405. Optimal Partition of String.md](./tasks/2405.%20Optimal%20Partition%20of%20String.md)  
+
+Unavailable:
+ - https://leetcode.com/problems/next-closest-time/description/  
+ - https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/
